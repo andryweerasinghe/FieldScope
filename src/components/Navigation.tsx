@@ -1,5 +1,5 @@
 import {Link, useLocation, useNavigate} from "react-router";
-import "./Naigation.css";
+import "./Navigation.css";
 import {useDispatch, useSelector} from "react-redux";
 import {useEffect} from "react";
 import {logOutUser} from "../reducers/UserSlice.ts";
